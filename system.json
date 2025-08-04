@@ -151,7 +151,7 @@
   "secondaryTokenAttribute": "other.stress",
   "url": "https://github.com/ld-cd/foundry-mothership",
   "manifest": "https://raw.githubusercontent.com/ld-cd/foundry-mothership/master/system.json",
-  "download": "https://github.com/ld-cd/foundry-mothership/releases/download/6.0.0/foundry-mothership.zip",
+  "download": "https://github.com/ld-cd/foundry-mothership/archive/refs/tags/6.0.0.zip",
   "license": "LICENSE.txt",
   "authors": [
     {
